@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flying Block", "Flying Block\Flying Block.csproj", "{A9BC968C-688B-4CC9-B40F-4B219FBABEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BC968C-688B-4CC9-B40F-4B219FBABEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BC968C-688B-4CC9-B40F-4B219FBABEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BC968C-688B-4CC9-B40F-4B219FBABEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BC968C-688B-4CC9-B40F-4B219FBABEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8644BED3-8204-4B5D-BD57-C3C2E2B1FD99}
+	EndGlobalSection
+EndGlobal
